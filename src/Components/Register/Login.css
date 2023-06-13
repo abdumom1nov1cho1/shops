@@ -1,0 +1,207 @@
+.admin__sect{
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+}
+.section6__otadiv{
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 3px solid rgb(173, 6, 6);
+    width: 600px;
+}
+.section6__otadiv__text__h1{
+    font-weight: 900;
+    color: rgb(173, 6, 6);
+}
+.section6__otadiv__text__p{
+    color: rgb(83, 82, 82);
+    font-weight: 700;
+}
+.section6__otadiv__input__btn1{
+    margin-top: 20px;
+    border-radius: 50%;
+    background-color:green;
+    border: none;
+    padding-top: 1px;
+    width: 30px;
+    height: 30px;
+}
+.section6__otadiv__input__btn2{
+    margin-top: 20px;
+    border-radius: 50%;
+    padding-top: 1px;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background-color: #fff;
+    background-color: red;
+}
+.section6__otadiv__input1{
+    text-align: center;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid rgb(173, 6, 6);
+}
+@media only screen and (max-width: 770px) {
+    .admin__sect{
+        margin-top: 100px;
+        justify-content: center;
+        align-items: center;
+    }
+    .section6__otadiv{
+        padding: 20px;
+        text-align: center;
+        align-items: center;
+        margin: 0 auto;
+        border-radius: 10px;
+        border: 3px solid rgb(173, 6, 6);
+        width: 400px;
+    }
+    .section6__otadiv__text__h1{
+        font-weight: 900;
+        font-size: 20px;
+        color: rgb(173, 6, 6);
+    }
+    .section6__otadiv__text__p{
+        color: rgb(83, 82, 82);
+        font-weight: 700;
+        font-size: 12px;
+    }
+    .section6__otadiv__input__btn1{
+        margin-top: 20px;
+        border-radius: 50%;
+        background-color:green;
+        border: none;
+        padding-top: 1px;
+        width: 30px;
+        height: 30px;
+    }
+    .section6__otadiv__input__btn2{
+        margin-top: 20px;
+        border-radius: 50%;
+        padding-top: 1px;
+        width: 30px;
+        height: 30px;
+        border: none;
+        background-color: #fff;
+        background-color: red;
+    }
+    .section6__otadiv__input1{
+        text-align: center;
+        width: 100%;
+        height: 40px;
+        border-radius: 10px;
+        border: 2px solid rgb(173, 6, 6);
+    }
+}
+@media only screen and (max-width: 440px) {
+    .admin__sect{
+        margin-top: 100px;
+        justify-content: center;
+        align-items: center;
+    }
+    .section6__otadiv{
+        padding: 10px;
+        text-align: center;
+        align-items: center;
+        margin: 0 auto;
+        border-radius: 10px;
+        border: 3px solid rgb(173, 6, 6);
+        width: 300px;
+    }
+    .section6__otadiv__text__h1{
+        font-weight: 900;
+        font-size: 16px;
+        color: rgb(173, 6, 6);
+    }
+    .section6__otadiv__text__p{
+        color: rgb(83, 82, 82);
+        font-weight: 700;
+        font-size: 9px;
+    }
+    .section6__otadiv__input__btn1{
+        margin-top: 20px;
+        border-radius: 50%;
+        background-color:green;
+        border: none;
+        padding-top: 1px;
+        width: 30px;
+        height: 30px;
+    }
+    .section6__otadiv__input__btn2{
+        margin-top: 20px;
+        border-radius: 50%;
+        padding-top: 1px;
+        width: 30px;
+        height: 30px;
+        border: none;
+        background-color: #fff;
+        background-color: red;
+    }
+    .section6__otadiv__input1{
+        text-align: center;
+        width: 100%;
+        font-size: 12px;
+        height: 30px;
+        color: red;
+        font-weight: 600;
+        border-radius: 10px;
+        border: 2px solid rgb(173, 6, 6);
+    }
+}
+@media only screen and (max-width: 340px) {
+    .admin__sect{
+        margin-top: 100px;
+        justify-content: center;
+        align-items: center;
+    }
+    .section6__otadiv{
+        padding: 10px;
+        text-align: center;
+        align-items: center;
+        margin: 0 auto;
+        border-radius: 10px;
+        border: 3px solid rgb(173, 6, 6);
+        width: 300px;
+    }
+    .section6__otadiv__text__h1{
+        font-weight: 900;
+        font-size: 16px;
+        color: rgb(173, 6, 6);
+    }
+    .section6__otadiv__text__p{
+        color: rgb(83, 82, 82);
+        font-weight: 700;
+        font-size: 9px;
+    }
+    .section6__otadiv__input__btn1{
+        margin-top: 20px;
+        border-radius: 50%;
+        background-color:green;
+        border: none;
+        padding-top: 1px;
+        width: 30px;
+        height: 30px;
+    }
+    .section6__otadiv__input__btn2{
+        margin-top: 20px;
+        border-radius: 50%;
+        padding-top: 1px;
+        width: 30px;
+        height: 30px;
+        border: none;
+        background-color: #fff;
+        background-color: red;
+    }
+    .section6__otadiv__input1{
+        text-align: center;
+        width: 100%;
+        height: 30px;
+        border-radius: 10px;
+        border: 2px solid rgb(173, 6, 6);
+    }
+}
